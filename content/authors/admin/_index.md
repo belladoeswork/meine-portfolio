@@ -5,20 +5,25 @@ bio: My interests include healthcare and everything data.
 social:
   - icon: envelope
     icon_pack: fas
-    link: about/#contact
+    link: vanessabellandaa@gmail.com
   - display:
       header: false
-    link: "#about:contact"
+    link: "17659351859"
     icon_pack: fas
     icon: phone
+  - display:
+      header: false
+    link: https://github.com/belladoeswork
+    icon_pack: fab
+    icon: github
 education:
   courses:
-    - course: BSc Biology
-      institution: AUP
-    - course: MPH  Health Promotion and Nutrition
-      institution: AIIAS
     - course: MSc Digital Health (In Progress)
       institution: DIT
+    - course: MPH  Health Promotion and Nutrition
+      institution: AIIAS
+    - course: BSc Biology
+      institution: AUP
 email: vanessabellandaa@gmail.com
 superuser: true
 status:
